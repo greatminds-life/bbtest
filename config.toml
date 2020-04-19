@@ -43,7 +43,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/ai2.png"
+bgImage = "images/class.jpg"
 heading = "Study less, Score more"
 description = "Blue Book is an online test preparation service that students can use to practice, learn, and improve their standardized test scores. Our service is using Machine Learning and Artificial Intelligence to provide more accurate and personalized tutor services."
 # button

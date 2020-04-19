@@ -1,9 +1,9 @@
 ---
-title: "ACT"
+title: "English"
 type: portfolio
 date: 2018-07-12T16:56:54+06:00
 description : "This is meta description"
-caption: English
+caption: ACT
 image: images/portfolio/english.jpg
 category: ["3d-model","product"]
 liveLink: https://www.themefisher.com

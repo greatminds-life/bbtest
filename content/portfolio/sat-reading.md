@@ -1,9 +1,9 @@
 ---
-title: "SAT"
+title: "Reading"
 type: portfolio
 date: 2018-07-12T16:59:54+06:00
 description : "This is meta description"
-caption: Reading
+caption: SAT
 image: images/portfolio/reading.jpg
 category: ["SAT","reading","english"]
 liveLink: https://example.com

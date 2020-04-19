@@ -1,9 +1,9 @@
 ---
-title: "ACT"
+title: "Reading"
 type: portfolio
 date: 2018-07-12T16:54:54+06:00
 description : "This is meta description"
-caption: Reading
+caption: ACT
 image: images/portfolio/reading.jpg
 category: ["mockup","design"]
 liveLink: https://www.themefisher.com

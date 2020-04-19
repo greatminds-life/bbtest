@@ -1,9 +1,9 @@
 ---
-title: "SAT"
+title: "Math"
 type: portfolio
 date: 2018-07-12T16:57:54+06:00
 description : "This is meta description"
-caption: Math
+caption: SAT
 image: images/portfolio/math2.jpg
 category: ["fashion","package"]
 liveLink: https://www.themefisher.com
